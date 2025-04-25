@@ -72,27 +72,27 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
+      title: "Unnati",
+      des: "One Stop Solution for all your education needs",
+      img: "/unnati.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://minimal-portfolio-swart.vercel.app/",
+      link: "https://unnati-parmarths-projects-b83c906e.vercel.app/",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      title: "CoDocs",
+      des: "LiveDocs is a powerful collaborative platform that allows users to share text, code, or any other content in real-time.",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "https://live-docs-roan.vercel.app/",
     },
     {
       id: 3,
-      title: "AI Image SaaS - Canva Application",
+      title: "EduIntel",
       des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "https://github.com/Parmarthcse",
     },
     {
       id: 4,
@@ -100,7 +100,7 @@ export const navItems = [
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      link: "https://apple-website-parmarths-projects-b83c906e.vercel.app",
     },
   ];
   
@@ -194,6 +194,7 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link:"https://github.com/Parmarthcse"
       
     },
     {

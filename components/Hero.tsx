@@ -36,7 +36,7 @@ const Hero = () => {
         className='text-center tex-[40px] md:text-5xl lg:text-6xl '
         words='Transforming Concept Into Seamless User Experience'/>
         <p className='text-center md:tracking-wider mb-4 md:text-lg lg:text-2xl'>
-            Hi, I&apos;m Parmarth, a FullStack Developer
+            Hi, I&apos;m Parmarth, a Frontend Developer
         </p>
         <a href='#about'>
             <MagicButton title="show my work" 
